@@ -1,21 +1,21 @@
-# Excel Report Automation
+# Excel Sales Report Automation
 
-This project uses Python to automatically generate sales reports from Excel data.
+Python script that automatically generates sales reports from raw Excel data.
+
+## Problem
+Many businesses calculate sales reports manually in Excel, which is slow and error-prone.
+
+## Solution
+This script reads raw sales data, cleans product names, calculates total revenue, and generates an automated Excel report.
 
 ## Features
-
-- Reads sales data from Excel
+- Reads Excel sales data
 - Cleans product names
 - Calculates total revenue
-- Generates sales analysis by product
-- Generates sales analysis by date
+- Sales analysis by product
+- Sales analysis by date
 
 ## Technologies
-
-Python
-Pandas
-Excel
-
-## Output
-
-Automated Excel report with sales summaries.
+- Python
+- Pandas
+- Excel
